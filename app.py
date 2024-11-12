@@ -22,7 +22,6 @@ def htop():
 
     # Format the output for display
     response = f"""
-    <h1>System Information</h1>
     <p><b>Name:</b> {full_name}</p>
     <p><b>user:</b> {username}</p>
     <p><b>Server Time (IST):</b> {server_time}</p>
